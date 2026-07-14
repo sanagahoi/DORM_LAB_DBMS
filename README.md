@@ -39,10 +39,10 @@ Recommended Clients: Oracle SQL Developer, DBeaver, DataGrip, or pgAdmin
 ## How to Use This Repository
 Clone the repository:
 
-``
+```
 git clone [https://github.com/sanagahoi/DORM_LAB_DBMS.git](https://github.com/sanagahoi/DORM_LAB_DBMS.git)
 cd DORM_LAB_DBMS
-``
+```
 ## Set up the Database:
 
 Open your SQL editor/client and connect to your database instance.
